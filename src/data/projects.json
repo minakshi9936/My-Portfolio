@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Consulatancy-Website",
+    "imageSrc": "projects/abg1.png",
+    "description": "Responsive site showcasing services and client interactions.",
+    "skills": ["React", "Tailwindcss", "Netlify", "GitHub"],
+    "demo": "https://abggroup.in/",
+    "source": "https://github.com/minakshi9936/company"
+  },
+  {
+    "title": "FM-Website",
+    "imageSrc": "projects/vishvam.png",
+    "description": "Manage tasks, maintenance, and resources.",
+    "skills": ["React", "Tailwindcss", "Express", "Node"],
+    "demo": "https://www.vishvamindia.com/",
+    "source": "https://github.com/minakshi9936/FM-Website"
+  },
+  {
+    "title": "One-Diksha",
+    "imageSrc": "projects/diksha.png",
+    "description": "Dynamic portal for job search, applications, and company management.",
+    "skills": ["React", "Tailwindcss", "Express", "Node"],
+    "demo": "https://dikshaone-edutech-plateform.netlify.app/",
+    "source": "https://github.com/minakshi9936/Dikshaone-plateform"
+  },
+   {
+    "title": "TechGram",
+    "imageSrc": "projects/techgram.png",
+    "description": "Online learning platform with courses, lessons, and progress tracking.",
+    "skills": ["React", "Express", "Node", "Netlify"],
+    "demo": "https://tech-graam.netlify.app/",
+    "source": "https://github.com/minakshi9936/"
+  }
+
+ 
+]
